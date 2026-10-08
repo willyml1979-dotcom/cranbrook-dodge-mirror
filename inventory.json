@@ -1,6 +1,6 @@
 {
   "dealership": "Cranbrook Dodge",
-  "generated_at": "2026-10-04T15:57:50",
+  "generated_at": "2026-10-08T14:34:43",
   "vehicle_count": 213,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2010,
       "make": "Dodge",
       "model": "RAM 1500 Laramie, Heated Seats and steering wheel, Sunroof, Leather interior, Canopy and Navigationin Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2010 Dodge RAM 1500 ",
@@ -34,12 +36,15 @@
       "year": 2010,
       "make": "Dodge",
       "model": "RAM 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2013 Jeep Wrangler Sport, 6 Speed manual transmission, 17\" Aluminum wheels, Hard Top with removable panelsin Cranbrook",
       "vin": "1C4AJWAGXDL691395",
       "stock": "NUMBER",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/30eca6c6e9ce.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2013-Jeep-Wrangler-id14304956.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2013-Jeep-Wrangler-id14304956.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -49,8 +54,10 @@
       "odometer_km": 92561,
       "year": 2013,
       "make": "Jeep",
-      "model": "Wrangler Sport, 6 Speed manual transmission, 17\" Aluminum wheels, Hard Top with removable panelsin Cranbrook",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2013 Jeep Wrangler ",
@@ -65,12 +72,15 @@
       "year": 2013,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2014 Jeep Grand Cherokee Srt8, Leather interior, performance SUV, Sunroof, Heated seats and steering wheelin Cranbrook",
       "vin": "1C4RJFDJ7EC482062",
       "stock": "NUMBER",
+      "trim": "Srt8",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/af272691e0d1.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2014-Jeep-Grand_Cherokee-id14200005.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2014-Jeep-Grand_Cherokee-id14200005.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -80,8 +90,10 @@
       "odometer_km": 205598,
       "year": 2014,
       "make": "Jeep",
-      "model": "Grand Cherokee Srt8, Leather interior, performance SUV, Sunroof, Heated seats and steering wheelin Cranbrook",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2014 Jeep Grand Cherokee ",
@@ -96,7 +108,9 @@
       "year": 2014,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2014 Jeep Grand Cherokee ",
@@ -111,7 +125,9 @@
       "year": 2014,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2014 Nissan Rogue ",
@@ -126,7 +142,9 @@
       "year": 2014,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2014 Nissan Rogue ",
@@ -141,12 +159,15 @@
       "year": 2014,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2014 RAM 1500 ST, Power windows and locks, Chrome bumpers, Tow Package, Sirius satelite radioin Cranbrook",
       "vin": "1C6RR7FT5ES103392",
       "stock": "NUMBER",
+      "trim": "ST",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/40dff08263ad.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2014-RAM-1500-id14320455.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2014-RAM-1500-id14320455.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -156,8 +177,10 @@
       "odometer_km": 183402,
       "year": 2014,
       "make": "RAM",
-      "model": "1500 ST, Power windows and locks, Chrome bumpers, Tow Package, Sirius satelite radioin Cranbrook",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2014 RAM 1500 ",
@@ -172,12 +195,15 @@
       "year": 2014,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2015 RAM 3500 C/c Laramie Longhorn, one owner locally owned, luxury leather interior, Cummins diesel enginein Cranbrook",
       "vin": "3C63R3KLXFG704262",
       "stock": "NUMBER",
+      "trim": "C/c Laramie Longhorn",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/432359ae20a6.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2015-RAM-3500-id14304957.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2015-RAM-3500-id14304957.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -187,8 +213,10 @@
       "odometer_km": 281178,
       "year": 2015,
       "make": "RAM",
-      "model": "3500 C/c Laramie Longhorn, one owner locally owned, luxury leather interior, Cummins diesel enginein Cranbrook",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2015 RAM 3500 ",
@@ -203,7 +231,9 @@
       "year": 2015,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2015 RAM 3500 ",
@@ -218,12 +248,15 @@
       "year": 2015,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2016 RAM 1500 SLT, Eco Diesel, Heated seats and Steering wheel, Remote Start, Tow groupin Cranbrook",
       "vin": "1C6RR7TM5GS370550",
       "stock": "NUMBER",
+      "trim": "SLT",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/0b31a1b532e7.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2016-RAM-1500-id14109929.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2016-RAM-1500-id14109929.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -233,8 +266,10 @@
       "odometer_km": 208706,
       "year": 2016,
       "make": "RAM",
-      "model": "1500 SLT, Eco Diesel, Heated seats and Steering wheel, Remote Start, Tow groupin Cranbrook",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2016 RAM 1500 ",
@@ -249,7 +284,9 @@
       "year": 2016,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2016 RAM 1500 ",
@@ -264,12 +301,15 @@
       "year": 2016,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2017 Dodge Charger Sxt Rwd. V6 auto, air,tilt,cruise,keyless entry, alloys and more. Great first car or commuter car uin Cranbrook",
       "vin": "2C3CDXHG2HH654232",
       "stock": "NUMBER",
+      "trim": "Sxt . V6 auto",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/5922e1a05690.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2017-Dodge-Charger-id13834697.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2017-Dodge-Charger-id13834697.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -279,8 +319,10 @@
       "odometer_km": 182786,
       "year": 2017,
       "make": "Dodge",
-      "model": "Charger Sxt Rwd. V6 auto, air,tilt,cruise,keyless entry, alloys and more. Great first car or commuter car uin Cranbrook",
-      "condition": "used"
+      "model": "Charger",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2017 Dodge Charger ",
@@ -295,7 +337,9 @@
       "year": 2017,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2017 Dodge Charger ",
@@ -310,13 +354,16 @@
       "year": 2017,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2017 RAM 1500 Laramie, Crew Cab, Leather interior, Sunroof. Tow package, Navigation, Remote start.Spray in linerin Cranbrook",
       "vin": "1C6RR7NT0HS543932",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Laramie",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/39f406fa9be0.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2017-RAM-1500-id14183973.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2017-RAM-1500-id14183973.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -326,8 +373,10 @@
       "odometer_km": 180071,
       "year": 2017,
       "make": "RAM",
-      "model": "1500 Laramie, Crew Cab, Leather interior, Sunroof. Tow package, Navigation, Remote start.Spray in linerin Cranbrook",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2017 RAM 1500 ",
@@ -343,7 +392,9 @@
       "year": 2017,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2017 RAM 1500 ",
@@ -359,7 +410,9 @@
       "year": 2017,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2017 RAM 3500 ",
@@ -375,7 +428,9 @@
       "year": 2017,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2017 Volkswagen Tiguan ",
@@ -390,7 +445,9 @@
       "year": 2017,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2017 Volkswagen Tiguan ",
@@ -405,12 +462,15 @@
       "year": 2017,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 1500 SLT quad cab 4x4, Hemi, auto, recondition and ready to go. Loaded with many options.in Cranbrook",
       "vin": "1C6RR7GT8JS263551",
       "stock": "NUMBER",
+      "trim": "SLT quad",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/ab0366c6291a.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2018-RAM-1500-id13811170.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2018-RAM-1500-id13811170.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -420,13 +480,16 @@
       "odometer_km": 239909,
       "year": 2018,
       "make": "RAM",
-      "model": "1500 SLT quad cab 4x4, Hemi, auto, recondition and ready to go. Loaded with many options.in Cranbrook",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 1500 Big Horn, Heated seats and Steering wheel, Power sunroof, Trailer tow group, Alpine stereoin Cranbrook",
       "vin": "1C6RR7GT6JS104611",
       "stock": "NUMBER",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/e933769ead3b.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2018-RAM-1500-id14172074.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2018-RAM-1500-id14172074.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -436,8 +499,10 @@
       "odometer_km": 319692,
       "year": 2018,
       "make": "RAM",
-      "model": "1500 Big Horn, Heated seats and Steering wheel, Power sunroof, Trailer tow group, Alpine stereoin Cranbrook",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 1500 ",
@@ -452,13 +517,16 @@
       "year": 2018,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 3500 C/c Laramie Longhornin Cranbrook",
       "vin": "3C63R3FL7JG134174",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "C/c Laramie Longhornin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/445a5e0694f0.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2018-RAM-3500-id14413704.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2018-RAM-3500-id14413704.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -468,8 +536,10 @@
       "odometer_km": 187589,
       "year": 2018,
       "make": "RAM",
-      "model": "3500 C/c Laramie Longhornin Cranbrook",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 3500 ",
@@ -485,7 +555,9 @@
       "year": 2018,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 1500 ",
@@ -500,7 +572,9 @@
       "year": 2018,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 3500 ",
@@ -516,12 +590,15 @@
       "year": 2018,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 Limitedin Cranbrook",
       "vin": "1C6SRFHT6KN890209",
       "stock": "NUMBER",
+      "trim": "Limitedin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/ff7ea8cfc56d.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2019-RAM-1500-id14386167.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2019-RAM-1500-id14386167.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -531,8 +608,10 @@
       "odometer_km": 66647,
       "year": 2019,
       "make": "RAM",
-      "model": "1500 Limitedin Cranbrook",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 ",
@@ -547,12 +626,15 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 Classic Expressin Cranbrook",
       "vin": "1C6RR7KTXKS720191",
       "stock": "NUMBER",
+      "trim": "Expressin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/9bdd591cc5b3.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2019-RAM-1500_Classic-id14404815.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2019-RAM-1500_Classic-id14404815.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -562,8 +644,10 @@
       "odometer_km": 145646,
       "year": 2019,
       "make": "RAM",
-      "model": "1500 Classic Expressin Cranbrook",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 Classic ",
@@ -578,7 +662,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Ranger ",
@@ -593,7 +679,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Ranger ",
@@ -608,13 +696,16 @@
       "year": 2021,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Gladiator Overland, Leather interior, Navigation, Heated seats and stering wheel, Tow packagein Cranbrook",
       "vin": "1C6HJTFG1ML599699",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Overland",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/bd2d6406869f.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2021-Jeep-Gladiator-id14320453.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2021-Jeep-Gladiator-id14320453.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -624,8 +715,10 @@
       "odometer_km": 91921,
       "year": 2021,
       "make": "Jeep",
-      "model": "Gladiator Overland, Leather interior, Navigation, Heated seats and stering wheel, Tow packagein Cranbrook",
-      "condition": "used"
+      "model": "Gladiator",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Gladiator ",
@@ -641,12 +734,15 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee L Limited 3.6 V6, 8 spd auto.Full range of driver assist systems,low low Ks and very. Clean, must viewin Cranbrook",
       "vin": "1C4RJKBGXM8165734",
       "stock": "NUMBER",
+      "trim": "Limited 3.6 V6",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/c537dc1e557e.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2021-Jeep-Grand_Cherokee_L-id13857062.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2021-Jeep-Grand_Cherokee_L-id13857062.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -656,8 +752,10 @@
       "odometer_km": 104437,
       "year": 2021,
       "make": "Jeep",
-      "model": "Grand Cherokee L Limited 3.6 V6, 8 spd auto.Full range of driver assist systems,low low Ks and very. Clean, must viewin Cranbrook",
-      "condition": "used"
+      "model": "Grand Cherokee L",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee L ",
@@ -672,7 +770,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Gladiator ",
@@ -688,7 +788,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee L ",
@@ -703,12 +805,15 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Classic Express, 20\" wheels, Heated seats and Steering wheel, Remote start, Power Seatsin Cranbrook",
       "vin": "1C6RR7FG6MS527617",
       "stock": "NUMBER",
+      "trim": "Express",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/093f03edd90d.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2021-RAM-1500_Classic-id14287049.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2021-RAM-1500_Classic-id14287049.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -718,8 +823,10 @@
       "odometer_km": 48625,
       "year": 2021,
       "make": "RAM",
-      "model": "1500 Classic Express, 20\" wheels, Heated seats and Steering wheel, Remote start, Power Seatsin Cranbrook",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Classic ",
@@ -734,12 +841,15 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 2500 Big Horn, power seats, 6.4L Gas engine, chrome bumpers.in Cranbrook",
       "vin": "3C6UR5DJ0MG506864",
       "stock": "NUMBER",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/4f181f09bb72.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2021-RAM-2500-id13936649.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2021-RAM-2500-id13936649.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -749,8 +859,10 @@
       "odometer_km": 101085,
       "year": 2021,
       "make": "RAM",
-      "model": "2500 Big Horn, power seats, 6.4L Gas engine, chrome bumpers.in Cranbrook",
-      "condition": "used"
+      "model": "2500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 2500 ",
@@ -765,7 +877,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Classic ",
@@ -780,7 +894,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 2500 ",
@@ -795,12 +911,15 @@
       "year": 2021,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Pacifica Touring L, All Wheel Drive, Leather interior, Heated seats and Steering wheel, 7 passengerin Cranbrook",
       "vin": "2C4RC3BG5NR222654",
       "stock": "NUMBER",
+      "trim": "Touring L",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/96509774cda3.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2022-Chrysler-Pacifica-id14019431.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2022-Chrysler-Pacifica-id14019431.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -810,8 +929,10 @@
       "odometer_km": 86798,
       "year": 2022,
       "make": "Chrysler",
-      "model": "Pacifica Touring L, All Wheel Drive, Leather interior, Heated seats and Steering wheel, 7 passengerin Cranbrook",
-      "condition": "used"
+      "model": "Pacifica",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Pacifica ",
@@ -826,7 +947,9 @@
       "year": 2022,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Pacifica ",
@@ -841,13 +964,16 @@
       "year": 2022,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 Dodge Durango GT, Leather interior, 6 passenger seating, Trailer tow package and Blacktop packagein Cranbrook",
       "vin": "1C4RDJDG4NC196491",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/5a23b9fbbe57.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2022-Dodge-Durango-id14089690.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2022-Dodge-Durango-id14089690.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -857,8 +983,10 @@
       "odometer_km": 98000,
       "year": 2022,
       "make": "Dodge",
-      "model": "Durango GT, Leather interior, 6 passenger seating, Trailer tow package and Blacktop packagein Cranbrook",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 Dodge Durango ",
@@ -874,7 +1002,9 @@
       "year": 2022,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 Dodge Durango ",
@@ -890,12 +1020,15 @@
       "year": 2022,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Sport GT trim, Hemi,8spd,AWD,console shift, fwd collision warning,brake assist,HUD. Too much to listin Cranbrook",
       "vin": "1C6SRFVT1NN437771",
       "stock": "NUMBER",
+      "trim": "Sport GT trim",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/d130314736c7.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2022-RAM-1500-id13738526.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2022-RAM-1500-id13738526.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -905,13 +1038,16 @@
       "odometer_km": 86925,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Sport GT trim, Hemi,8spd,AWD,console shift, fwd collision warning,brake assist,HUD. Too much to listin Cranbrook",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Rebel, Heated seats and steering wheel, Remote start, 9 Speaker system, Naviigationin Cranbrook",
       "vin": "1C6SRFLTXNN176885",
       "stock": "NUMBER",
+      "trim": "Rebel",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/fbe22d484449.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2022-RAM-1500-id14248318.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2022-RAM-1500-id14248318.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -921,8 +1057,10 @@
       "odometer_km": 49778,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Rebel, Heated seats and steering wheel, Remote start, 9 Speaker system, Naviigationin Cranbrook",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -937,13 +1075,16 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 3500 Crew Cab Laramie, leather interior, one owner vehicle, surround view camerain Cranbrook",
       "vin": "3C63R3EL4NG153708",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Laramie",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/7cfee5a22c71.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2022-RAM-3500-id14189413.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2022-RAM-3500-id14189413.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -953,14 +1094,17 @@
       "odometer_km": 99346,
       "year": 2022,
       "make": "RAM",
-      "model": "3500 Crew Cab Laramie, leather interior, one owner vehicle, surround view camerain Cranbrook",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 3500 Crew Cab Laramiein Cranbrook",
       "vin": "3C63R3EL2NG153707",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Laramiein Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/d0b890fe261c.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2022-RAM-3500-id14354320.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2022-RAM-3500-id14354320.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -970,8 +1114,10 @@
       "odometer_km": 77564,
       "year": 2022,
       "make": "RAM",
-      "model": "3500 Crew Cab Laramiein Cranbrook",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 3500 ",
@@ -987,7 +1133,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -1002,7 +1150,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 3500 ",
@@ -1018,7 +1168,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee ",
@@ -1034,7 +1186,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee L ",
@@ -1049,7 +1203,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Wrangler ",
@@ -1065,7 +1221,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Armada ",
@@ -1080,7 +1238,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Armada ",
@@ -1095,12 +1255,15 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 Tradesmanin Cranbrook",
       "vin": "3C63R3GLXPG652864",
       "stock": "NUMBER",
+      "trim": "Tradesmanin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/963663cb4346.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2023-RAM-3500-id14359631.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2023-RAM-3500-id14359631.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1110,8 +1273,10 @@
       "odometer_km": 76527,
       "year": 2023,
       "make": "RAM",
-      "model": "3500 Tradesmanin Cranbrook",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 ",
@@ -1126,7 +1291,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 ",
@@ -1141,12 +1308,15 @@
       "year": 2023,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Chrysler Pacifica Touring-L, Leather interior, heated seats and steering wheel, 7 passengerin Cranbrook",
       "vin": "2C4RC1BG3RR167132",
       "stock": "NUMBER",
+      "trim": "Touring-L",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/ead52eeaaa7f.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2024-Chrysler-Pacifica-id14104609.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2024-Chrysler-Pacifica-id14104609.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1156,8 +1326,10 @@
       "odometer_km": 59302,
       "year": 2024,
       "make": "Chrysler",
-      "model": "Pacifica Touring-L, Leather interior, heated seats and steering wheel, 7 passengerin Cranbrook",
-      "condition": "used"
+      "model": "Pacifica",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Chrysler Pacifica ",
@@ -1172,7 +1344,9 @@
       "year": 2024,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wagoneer Series Ii Carbide 3.0 hurricane twin turbo, 8 spd auto,leather heated/cooled front seats loadedin Cranbrook",
@@ -1188,7 +1362,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wagoneer Series Ii Carbide 3.0 hurricane twin turbo, 8 spd auto,leather heated/cooled front seats loadedin Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wagoneer ",
@@ -1203,7 +1379,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wagoneer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wagoneer ",
@@ -1218,12 +1396,15 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wagoneer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango R/T Hemi 8 spd auto, AWD,7pass,NAV w/10 display,,heated front seats, leather and much much morein Cranbrook",
       "vin": "1C4SDJCTXSC513041",
       "stock": "NUMBER",
+      "trim": "R/T Hemi 8 spd auto",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/fbbbb28e1dd0.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2025-Dodge-Durango-id13629545.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2025-Dodge-Durango-id13629545.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1233,13 +1414,16 @@
       "odometer_km": 55806,
       "year": 2025,
       "make": "Dodge",
-      "model": "Durango R/T Hemi 8 spd auto, AWD,7pass,NAV w/10 display,,heated front seats, leather and much much morein Cranbrook",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango R/T Hemi 8 spd auto, AWD, 7 pass, nav w/10display,heated frt leather seats,and much much morein Cranbrook",
       "vin": "1C4SDJCT7SC513384",
       "stock": "NUMBER",
+      "trim": "R/T Hemi 8 spd auto",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/e2faf8f58196.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2025-Dodge-Durango-id13738524.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2025-Dodge-Durango-id13738524.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1249,8 +1433,10 @@
       "odometer_km": 58534,
       "year": 2025,
       "make": "Dodge",
-      "model": "Durango R/T Hemi 8 spd auto, AWD, 7 pass, nav w/10display,heated frt leather seats,and much much morein Cranbrook",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -1265,7 +1451,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -1280,7 +1468,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Tucson ",
@@ -1295,7 +1485,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 ",
@@ -1310,7 +1502,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 ",
@@ -1325,7 +1519,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -1341,7 +1537,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 3500 ",
@@ -1357,13 +1555,16 @@
       "year": 2025,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 RAM ProMaster Cargo Van Tradesman | High roof | Tow package | Storage group | Spray in floorin Cranbrook",
       "vin": "3C6LRVDG6SE508336",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van Tradesman",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/c67a0948567d.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2025-RAM-ProMaster_Cargo_Van-id12088420.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2025-RAM-ProMaster_Cargo_Van-id12088420.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1372,14 +1573,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "RAM",
-      "model": "ProMaster Cargo Van Tradesman",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVDG6SE508336",
       "stock": 12088420,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/84c7728a571c.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2025-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2025-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1388,8 +1592,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "new"
+      "model": "ProMaster",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -1405,7 +1611,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 3500 ",
@@ -1421,7 +1629,9 @@
       "year": 2025,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravan ",
@@ -1436,7 +1646,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacificain Cranbrook",
@@ -1451,12 +1663,15 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacificain Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybridin Cranbrook",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/f51a7a443bea.html",
       "source_url": "https://www.cranbrookdodge.ca/new/2026-Chrysler-Pacifica_Hybrid.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1465,8 +1680,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Pacifica Hybridin Cranbrook",
-      "condition": "used"
+      "model": "Pacifica",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravan ",
@@ -1481,7 +1698,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacificain Cranbrook",
@@ -1496,12 +1715,15 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacificain Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybridin Cranbrook",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/f51a7a443bea.html",
       "source_url": "https://www.cranbrookdodge.ca/new/2026-Chrysler-Pacifica_Hybrid.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1510,13 +1732,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Pacifica Hybridin Cranbrook",
-      "condition": "new"
+      "model": "Pacifica",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravan SXTin Cranbrook",
       "vin": "2C4RC1ZGXTR240784",
       "stock": "NUMBER",
+      "trim": "SXTin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/16422b1e0289.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Chrysler-Grand_Caravan-id13489080.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Chrysler-Grand_Caravan-id13489080.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1525,8 +1750,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Grand Caravan SXTin Cranbrook",
-      "condition": "new"
+      "model": "Grand Caravan",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravan ",
@@ -1541,7 +1768,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Chargerin Cranbrook",
@@ -1556,7 +1785,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Chargerin Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -1572,7 +1803,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Chargerin Cranbrook",
@@ -1587,7 +1820,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Chargerin Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -1603,7 +1838,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durango ",
@@ -1619,7 +1856,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -1635,7 +1874,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -1651,7 +1892,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -1667,7 +1910,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -1683,7 +1928,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L ",
@@ -1699,7 +1946,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneerin Cranbrook",
@@ -1714,12 +1963,15 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneerin Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer Lin Cranbrook",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/8502f9c01b21.html",
       "source_url": "https://www.cranbrookdodge.ca/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1728,8 +1980,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Cranbrook",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Cranbrook",
@@ -1744,7 +1998,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -1760,7 +2016,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -1776,7 +2034,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -1792,7 +2052,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -1808,7 +2070,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -1824,7 +2088,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L ",
@@ -1840,7 +2106,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneerin Cranbrook",
@@ -1855,12 +2123,15 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneerin Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer Lin Cranbrook",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/8502f9c01b21.html",
       "source_url": "https://www.cranbrookdodge.ca/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1869,8 +2140,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Cranbrook",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Cranbrook",
@@ -1885,7 +2158,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -1901,13 +2176,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Cranbrook",
       "vin": "3C4PJMB20TT228234",
       "stock": "NUMBER",
       "color": "'41",
+      "trim": "Laredoin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/9d3e8d2ade8e.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Cherokee-id13643373.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Cherokee-id13643373.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1916,13 +2194,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Cranbrook",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Cranbrook",
       "vin": "3C4PJMB22TT228235",
       "stock": "NUMBER",
+      "trim": "Laredoin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/816f23084cab.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Cherokee-id13643374.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Cherokee-id13643374.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1931,13 +2212,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Cranbrook",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Limitedin Cranbrook",
       "vin": "3C4PJMB23TT209046",
       "stock": "NUMBER",
+      "trim": "Limitedin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/c7b1a83a158c.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Cherokee-id13643376.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Cherokee-id13643376.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1946,8 +2230,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Limitedin Cranbrook",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -1963,13 +2249,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sportin Cranbrook",
       "vin": "3C4NJDAN6TT161335",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sportin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/1bb5f814c74f.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Compass-id12922162.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Compass-id12922162.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1978,14 +2267,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sportin Cranbrook",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Cranbrook",
       "vin": "3C4NJDBN1TT212755",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Northin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/efa971657a8b.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Compass-id13550391.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Compass-id13550391.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1994,8 +2286,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Cranbrook",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -2011,13 +2305,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator Willysin Cranbrook",
       "vin": "1C6PJTAG3TL174390",
       "stock": "NUMBER",
       "color": "Mojito",
+      "trim": "Willysin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/595cc61d0d91.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Gladiator-id13545603.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Gladiator-id13545603.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2026,14 +2323,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Gladiator Willysin Cranbrook",
-      "condition": "new"
+      "model": "Gladiator",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator Willysin Cranbrook",
       "vin": "1C6PJTAG9TL184342",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Willysin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/69e0a362b425.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Gladiator-id13865884.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Gladiator-id13865884.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2042,14 +2342,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Gladiator Willysin Cranbrook",
-      "condition": "new"
+      "model": "Gladiator",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator Willysin Cranbrook",
       "vin": "1C6PJTAG2TL184344",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Willysin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/14a6b4654ff2.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Gladiator-id13890019.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Gladiator-id13890019.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2058,14 +2361,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Gladiator Willysin Cranbrook",
-      "condition": "new"
+      "model": "Gladiator",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator Willysin Cranbrook",
       "vin": "1C6PJTAG2TL192900",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Willysin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/91fbbfa63663.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Gladiator-id14092062.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Gladiator-id14092062.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2074,14 +2380,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Gladiator Willysin Cranbrook",
-      "condition": "new"
+      "model": "Gladiator",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator Willysin Cranbrook",
       "vin": "1C6PJTAGXTL192899",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Willysin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/f0cee2957b1c.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Gladiator-id14123897.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Gladiator-id14123897.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2090,8 +2399,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Gladiator Willysin Cranbrook",
-      "condition": "new"
+      "model": "Gladiator",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiator ",
@@ -2107,13 +2418,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitudein Cranbrook",
       "vin": "1C4RJHAR7TC317213",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Altitudein Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/28c2ca64ee77.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Grand_Cherokee-id14147187.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Grand_Cherokee-id14147187.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2122,14 +2436,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Altitudein Cranbrook",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitudein Cranbrook",
       "vin": "1C4RJHAR9TC317214",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Altitudein Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/10ae724c6bb6.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Grand_Cherokee-id14192805.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Grand_Cherokee-id14192805.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2138,8 +2455,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Altitudein Cranbrook",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -2155,13 +2474,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L Limitedin Cranbrook",
       "vin": "1C4RJKAR7T8585789",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limitedin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/830ac3d34140.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Grand_Cherokee_L-id13953556.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Grand_Cherokee_L-id13953556.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2170,14 +2492,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee L Limitedin Cranbrook",
-      "condition": "new"
+      "model": "Grand Cherokee L",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L Limitedin Cranbrook",
       "vin": "1C4RJKAR3T8585790",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Limitedin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/8e29f2f443c4.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Grand_Cherokee_L-id14066863.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Grand_Cherokee_L-id14066863.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2186,8 +2511,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee L Limitedin Cranbrook",
-      "condition": "new"
+      "model": "Grand Cherokee L",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee L ",
@@ -2203,13 +2530,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee L",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Willysin Cranbrook",
       "vin": "1C4RJXDG4TW325451",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Willysin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/43a22edf9634.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Wrangler-id14061869.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-Jeep-Wrangler-id14061869.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2218,8 +2548,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Willysin Cranbrook",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -2235,7 +2567,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -2251,7 +2585,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2267,12 +2603,15 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Hornin Cranbrook",
       "vin": "3C63R3HL4TG216301",
       "stock": "NUMBER",
+      "trim": "Big Hornin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/e83173ac713f.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2026-RAM-3500-id14438623.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2026-RAM-3500-id14438623.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2282,13 +2621,16 @@
       "odometer_km": 13161,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Hornin Cranbrook",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Hornin Cranbrook",
       "vin": "3C63R3HLXTG241977",
       "stock": "NUMBER",
+      "trim": "Big Hornin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/f57be11ae654.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2026-RAM-3500-id14438624.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2026-RAM-3500-id14438624.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2298,13 +2640,16 @@
       "odometer_km": 23036,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Hornin Cranbrook",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Hornin Cranbrook",
       "vin": "3C63R3HL8TG216317",
       "stock": "NUMBER",
+      "trim": "Big Hornin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/a89d714e4897.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2026-RAM-3500-id14438625.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2026-RAM-3500-id14438625.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2314,13 +2659,16 @@
       "odometer_km": 14009,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Hornin Cranbrook",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Hornin Cranbrook",
       "vin": "3C63R3HL5TG222088",
       "stock": "NUMBER",
+      "trim": "Big Hornin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/011f194fecb2.html",
       "source_url": "https://www.cranbrookdodge.ca/used/2026-RAM-3500-id14438626.html",
       "dealer_url": "https://www.cranbrookdodge.ca/used/2026-RAM-3500-id14438626.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2330,8 +2678,10 @@
       "odometer_km": 19543,
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Hornin Cranbrook",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2346,7 +2696,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -2362,7 +2714,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2378,13 +2732,16 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Sportin Cranbrook",
       "vin": "3C6SRFVP3T4152726",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sportin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/448212851cd1.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id13304301.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id13304301.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2393,14 +2750,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Sportin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Sportin Cranbrook",
       "vin": "3C6SRFVP7T4152728",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sportin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/ef0272003729.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id13343201.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id13343201.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2409,14 +2769,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Sportin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Sportin Cranbrook",
       "vin": "1C6SRFVT6TN332737",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sportin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/a27ada62369c.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id13580568.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id13580568.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2425,14 +2788,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Sportin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Sportin Cranbrook",
       "vin": "1C6SRFVT2TN333819",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sportin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/8fdccbdd1a0b.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id13682828.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id13682828.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2441,14 +2807,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Sportin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Sportin Cranbrook",
       "vin": "3C6SRFVP5T4152727",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sportin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/f51a9da2a44d.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id13779657.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id13779657.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2457,14 +2826,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Sportin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Big Hornin Cranbrook",
       "vin": "1C6SRFMP9TN406849",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Big Hornin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/14d3b571bfd4.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14034340.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14034340.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2473,14 +2845,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Big Hornin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Big Hornin Cranbrook",
       "vin": "1C6SRFMP5TN406850",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Big Hornin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/3acbe7424f68.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14034341.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14034341.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2489,14 +2864,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Big Hornin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Laramiein Cranbrook",
       "vin": "1C6SRFRP7TN378235",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Laramiein Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/067fc9b33a85.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14054255.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14054255.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2505,14 +2883,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Laramiein Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Big Hornin Cranbrook",
       "vin": "1C6SRFFT6TN418659",
       "stock": "NUMBER",
       "color": "Tank",
+      "trim": "Big Hornin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/d10bf1e474f0.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14054256.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14054256.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2521,14 +2902,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Big Hornin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Sportin Cranbrook",
       "vin": "1C6SRFTPXTN370767",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sportin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/af3c4063857a.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14054258.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14054258.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2537,14 +2921,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Sportin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Expressin Cranbrook",
       "vin": "1C6SRFGP2TN434939",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "Expressin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/81fb8da9c02a.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14092063.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14092063.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2553,14 +2940,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Expressin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Rebelin Cranbrook",
       "vin": "1C6SRFLP5TN441308",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Rebelin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/8144139c3ada.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14177782.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14177782.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2569,14 +2959,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Rebelin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Expressin Cranbrook",
       "vin": "1C6SRFGP9TN442021",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "Expressin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/f376d18a9d98.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14192804.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-1500-id14192804.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2585,8 +2978,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Expressin Cranbrook",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -2602,13 +2997,16 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Hornin Cranbrook",
       "vin": "3C63R3DL7TG273565",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Big Hornin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/2648a8039118.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-3500-id13708488.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2026-RAM-3500-id13708488.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2617,8 +3015,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Hornin Cranbrook",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2634,7 +3034,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2649,7 +3051,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 2500in Cranbrook",
@@ -2664,7 +3068,9 @@
       "year": 2026,
       "make": "Ram",
       "model": "2500in Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 2500in Cranbrook",
@@ -2679,7 +3085,9 @@
       "year": 2026,
       "make": "Ram",
       "model": "2500in Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan ",
@@ -2695,7 +3103,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -2711,7 +3121,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan ",
@@ -2727,7 +3139,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -2743,13 +3157,16 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan SXTin Cranbrook",
       "vin": "2C4RC1ZG5VR551784",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SXTin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/951fae0d96f0.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Grand_Caravan-id13865882.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Grand_Caravan-id13865882.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2758,14 +3175,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chrysler",
-      "model": "Grand Caravan SXTin Cranbrook",
-      "condition": "new"
+      "model": "Grand Caravan",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan SXTin Cranbrook",
       "vin": "2C4RC1ZG2VR557297",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SXTin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/d734547f8de5.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Grand_Caravan-id13890018.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Grand_Caravan-id13890018.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2774,14 +3194,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chrysler",
-      "model": "Grand Caravan SXTin Cranbrook",
-      "condition": "new"
+      "model": "Grand Caravan",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan SXTin Cranbrook",
       "vin": "2C4RC1ZG0VR557296",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SXTin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/e3d80bbdd740.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Grand_Caravan-id13929030.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Grand_Caravan-id13929030.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2790,8 +3213,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chrysler",
-      "model": "Grand Caravan SXTin Cranbrook",
-      "condition": "new"
+      "model": "Grand Caravan",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravan ",
@@ -2807,13 +3232,16 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica Selectin Cranbrook",
       "vin": "2C4RC3BG2VR565602",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Selectin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/8491c9e0a1aa.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Pacifica-id13953553.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Pacifica-id13953553.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2822,14 +3250,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chrysler",
-      "model": "Pacifica Selectin Cranbrook",
-      "condition": "new"
+      "model": "Pacifica",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica Selectin Cranbrook",
       "vin": "2C4RC3BG9VR565600",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Selectin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/68372efb593d.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Pacifica-id14034342.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2027-Chrysler-Pacifica-id14034342.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2838,8 +3269,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chrysler",
-      "model": "Pacifica Selectin Cranbrook",
-      "condition": "new"
+      "model": "Pacifica",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacifica ",
@@ -2855,7 +3288,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Cranbrook",
@@ -2870,7 +3305,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durango ",
@@ -2886,7 +3323,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Cranbrook",
@@ -2901,7 +3340,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durango ",
@@ -2917,7 +3358,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durango ",
@@ -2933,7 +3376,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Cranbrook",
@@ -2948,7 +3393,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Cranbrook",
@@ -2963,7 +3410,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Cranbrook",
@@ -2978,7 +3427,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Cranbrook",
@@ -2993,12 +3444,15 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Cranbrook",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/beb7ee341ee3.html",
       "source_url": "https://www.cranbrookdodge.ca/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3007,8 +3461,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Cranbrook",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Cranbrook",
@@ -3023,12 +3479,15 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Cranbrook",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/97258f8109c6.html",
       "source_url": "https://www.cranbrookdodge.ca/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3037,8 +3496,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Cranbrook",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wranglerin Cranbrook",
@@ -3053,7 +3514,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wranglerin Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Cranbrook",
@@ -3068,7 +3531,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Cranbrook",
@@ -3083,7 +3548,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Cranbrook",
@@ -3098,7 +3565,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Cranbrook",
@@ -3113,12 +3582,15 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Cranbrook",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/beb7ee341ee3.html",
       "source_url": "https://www.cranbrookdodge.ca/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3127,8 +3599,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Cranbrook",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Cranbrook",
@@ -3143,12 +3617,15 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Cranbrook",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Lin Cranbrook",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/97258f8109c6.html",
       "source_url": "https://www.cranbrookdodge.ca/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3157,8 +3634,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Cranbrook",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wranglerin Cranbrook",
@@ -3173,7 +3652,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wranglerin Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 2500 ",
@@ -3189,7 +3670,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -3205,7 +3688,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 2500 ",
@@ -3221,7 +3706,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -3237,7 +3724,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -3253,7 +3742,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 2500 ",
@@ -3269,7 +3760,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -3285,13 +3778,16 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 5500 Chassis ",
       "vin": "3C7WRNBL8VG405470",
       "stock": 14448135,
       "color": "White",
+      "trim": "Chassis",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/3c6ebded341b.html",
       "source_url": "https://www.cranbrookdodge.ca/new/inventory/2027-RAM-5500_Chassis.html",
       "dealer_url": "https://www.cranbrookdodge.ca/new/inventory/2027-RAM-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3300,8 +3796,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "RAM",
-      "model": "5500 Chassis",
-      "condition": "new"
+      "model": "5500",
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 1500in Cranbrook",
@@ -3316,7 +3814,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "1500in Cranbrook",
-      "condition": "used"
+      "condition": "used",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 1500in Cranbrook",
@@ -3331,7 +3831,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "1500in Cranbrook",
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     }
   ]
 }
