@@ -1,7 +1,7 @@
 {
   "dealership": "Cranbrook Dodge",
-  "generated_at": "2026-10-26T07:20:24",
-  "vehicle_count": 174,
+  "generated_at": "2026-10-26T07:26:17",
+  "vehicle_count": 172,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -278,6 +278,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Chrysler Pacifica Selectin Cranbrook",
+      "vin": "2C4RC3BG9VR565600",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/68372efb593d.html",
+      "condition": "new",
+      "price": 59490.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2004 Porsche Cayenne Turboin Cranbrook",
       "vin": "WP1AC29P84LA93926",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/3d49ab1877a9.html",
@@ -429,17 +437,6 @@
       "model": "3500",
       "condition": "new",
       "price": 32601.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 RAM 1500 ",
-      "vin": "1C6RR7TM5GS370550",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/6a36f4bd783d.html",
-      "year": 2016,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 13933.0,
       "price_currency": "CAD"
     },
     {
@@ -1515,17 +1512,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Sportin Cranbrook",
-      "vin": "1C6SRFTPXTN370767",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/af3c4063857a.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 93930.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 RAM 1500 ",
       "vin": "3C6SRFVP3T4152726",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/06c10dc73022.html",
@@ -1591,17 +1577,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Pacifica Selectin Cranbrook",
-      "vin": "2C4RC3BG9VR565600",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/68372efb593d.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 59490.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Chrysler Pacifica ",
       "vin": "2C4RC3BG2VR565602",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/9ac901e5a6c7.html",
@@ -1635,13 +1610,13 @@
     },
     {
       "name": "2027 Dodge Durango ",
-      "vin": "1C4RDJDG1VC581751",
+      "vin": "1C4RDJDG3VC581752",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/68a20f934d2c.html",
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
-      "price": 68480.0,
+      "price": 67835.0,
       "price_currency": "CAD"
     },
     {
@@ -1781,13 +1756,13 @@
     },
     {
       "name": "2027 RAM 3500 ",
-      "vin": "3C63R3DL8VG408748",
+      "vin": "3C63R3EL1VG412834",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/415373864666.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 96210.0,
+      "price": 120405.0,
       "price_currency": "CAD"
     },
     {
