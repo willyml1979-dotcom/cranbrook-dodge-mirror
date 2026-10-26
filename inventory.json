@@ -1,7 +1,7 @@
 {
   "dealership": "Cranbrook Dodge",
-  "generated_at": "2026-10-25T22:35:49",
-  "vehicle_count": 175,
+  "generated_at": "2026-10-25T22:39:50",
+  "vehicle_count": 174,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -166,6 +166,54 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 RAM 1500 Sportin Cranbrook",
+      "vin": "3C6SRFVP5T4152727",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/f51a9da2a44d.html",
+      "condition": "new",
+      "price": 86750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Big Hornin Cranbrook",
+      "vin": "1C6SRFMP9TN406849",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/14d3b571bfd4.html",
+      "condition": "new",
+      "price": 83895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Big Hornin Cranbrook",
+      "vin": "1C6SRFMP5TN406850",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/3acbe7424f68.html",
+      "condition": "new",
+      "price": 83895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Laramiein Cranbrook",
+      "vin": "1C6SRFRP7TN378235",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/067fc9b33a85.html",
+      "condition": "new",
+      "price": 92735.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Big Hornin Cranbrook",
+      "vin": "1C6SRFFT6TN418659",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/d10bf1e474f0.html",
+      "condition": "new",
+      "price": 77315.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Expressin Cranbrook",
+      "vin": "1C6SRFGP2TN434939",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/81fb8da9c02a.html",
+      "condition": "new",
+      "price": 66885.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 RAM 1500 Rebelin Cranbrook",
       "vin": "1C6SRFLP5TN441308",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/8144139c3ada.html",
@@ -195,6 +243,38 @@
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/0cae1ad53619.html",
       "condition": "new",
       "price": 66190.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Grand Caravan SXTin Cranbrook",
+      "vin": "2C4RC1ZG5VR551784",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/951fae0d96f0.html",
+      "condition": "new",
+      "price": 50590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Grand Caravan SXTin Cranbrook",
+      "vin": "2C4RC1ZG2VR557297",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/d734547f8de5.html",
+      "condition": "new",
+      "price": 50790.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Grand Caravan SXTin Cranbrook",
+      "vin": "2C4RC1ZG0VR557296",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/e3d80bbdd740.html",
+      "condition": "new",
+      "price": 50790.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Pacifica Selectin Cranbrook",
+      "vin": "2C4RC3BG2VR565602",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/8491c9e0a1aa.html",
+      "condition": "new",
+      "price": 59985.0,
       "price_currency": "CAD"
     },
     {
@@ -1347,17 +1427,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Grand Cherokee Altitudein Cranbrook",
-      "vin": "1C4RJHAR7TC317213",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/28c2ca64ee77.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 66380.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Grand Cherokee ",
       "vin": "1C4RJHAR9TC317214",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/4c29e41134f6.html",
@@ -1447,61 +1516,6 @@
     },
     {
       "name": "2026 RAM 1500 Sportin Cranbrook",
-      "vin": "3C6SRFVP5T4152727",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/f51a9da2a44d.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 86750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Big Hornin Cranbrook",
-      "vin": "1C6SRFMP9TN406849",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/14d3b571bfd4.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 83895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Big Hornin Cranbrook",
-      "vin": "1C6SRFMP5TN406850",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/3acbe7424f68.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 83895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Laramiein Cranbrook",
-      "vin": "1C6SRFRP7TN378235",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/067fc9b33a85.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 92735.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Big Hornin Cranbrook",
-      "vin": "1C6SRFFT6TN418659",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/d10bf1e474f0.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 77315.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Sportin Cranbrook",
       "vin": "1C6SRFTPXTN370767",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/af3c4063857a.html",
       "year": 2026,
@@ -1509,17 +1523,6 @@
       "model": "1500",
       "condition": "new",
       "price": 93930.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Expressin Cranbrook",
-      "vin": "1C6SRFGP2TN434939",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/81fb8da9c02a.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 66885.0,
       "price_currency": "CAD"
     },
     {
@@ -1577,39 +1580,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Grand Caravan SXTin Cranbrook",
-      "vin": "2C4RC1ZG5VR551784",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/951fae0d96f0.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 50590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chrysler Grand Caravan SXTin Cranbrook",
-      "vin": "2C4RC1ZG2VR557297",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/d734547f8de5.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 50790.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chrysler Grand Caravan SXTin Cranbrook",
-      "vin": "2C4RC1ZG0VR557296",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/e3d80bbdd740.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 50790.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Chrysler Grand Caravan ",
       "vin": "2C4RC1ZG5VR551784",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/808dfb54d65f.html",
@@ -1618,17 +1588,6 @@
       "model": "Grand Caravan",
       "condition": "new",
       "price": 50590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chrysler Pacifica Selectin Cranbrook",
-      "vin": "2C4RC3BG2VR565602",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/8491c9e0a1aa.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 59985.0,
       "price_currency": "CAD"
     },
     {
