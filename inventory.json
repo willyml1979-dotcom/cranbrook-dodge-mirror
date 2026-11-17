@@ -1,7 +1,7 @@
 {
   "dealership": "Cranbrook Dodge",
-  "generated_at": "2026-11-17T07:23:11",
-  "vehicle_count": 173,
+  "generated_at": "2026-11-17T07:38:57",
+  "vehicle_count": 178,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -107,6 +107,110 @@
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/633d72ceecc0.html",
       "condition": "used",
       "price": 46998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2500 2026 for salein Cranbrook",
+      "vin": "3C6TR5CJ1TG333710",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/2aa5be77d8ca.html",
+      "condition": "new",
+      "price": 80025.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2027 for salein Cranbrook",
+      "vin": "1C4RJXDG0VW602941",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/ecc5a1a92c48.html",
+      "condition": "new",
+      "price": 79615.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Gladiator 2021 for salein Cranbrook",
+      "vin": "1C6HJTFG1ML599699",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/f17a17fb09f6.html",
+      "condition": "new",
+      "price": 37795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee L 2021 for salein Cranbrook",
+      "vin": "1C4RJKBGXM8165734",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/119436da6862.html",
+      "condition": "new",
+      "price": 31399.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2021 for salein Cranbrook",
+      "vin": "3C6UR5DJ0MG506864",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/1a26365e073c.html",
+      "condition": "new",
+      "price": 41998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2500 2021 for salein Cranbrook",
+      "vin": "3C6UR5DJ0MG506864",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/732da242c057.html",
+      "condition": "new",
+      "price": 41998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2022 for salein Cranbrook",
+      "vin": "2C4RC3BG5NR222654",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/0b8d8c70de2c.html",
+      "condition": "new",
+      "price": 32129.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2022 for salein Cranbrook",
+      "vin": "1C4RDJDG4NC196491",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/b8bed3db73e4.html",
+      "condition": "new",
+      "price": 34211.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2022 for salein Cranbrook",
+      "vin": "1C6SRFFT6NN326356",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/76ca3739d00c.html",
+      "condition": "new",
+      "price": 37551.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2023 for salein Cranbrook",
+      "vin": "3C63R3GLXPG652864",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/ef17f0d1a6d0.html",
+      "condition": "new",
+      "price": 54764.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wagoneer 2024 for salein Cranbrook",
+      "vin": "1C4SJVBP0RS113056",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/3bfdf1ac816c.html",
+      "condition": "new",
+      "price": 48998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2025 for salein Cranbrook",
+      "vin": "1C4SDJCTXSC513041",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/41e38fbcf490.html",
+      "condition": "new",
+      "price": 44998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-5 2025 for salein Cranbrook",
+      "vin": "JM3KFBCL3S0607772",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/014313457a44.html",
+      "condition": "new",
+      "price": 30998.0,
       "price_currency": "CAD"
     },
     {
@@ -528,28 +632,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Jeep Gladiator ",
-      "vin": "1C6HJTFG1ML599699",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/f17a17fb09f6.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "new",
-      "price": 37795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee L ",
-      "vin": "1C4RJKBGXM8165734",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/119436da6862.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee L",
-      "condition": "new",
-      "price": 31399.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 RAM 2500 Big Horn, power seats, 6.4L Gas engine, chrome bumpers.in Cranbrook",
       "vin": "3C6UR5DJ0MG506864",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/4f181f09bb72.html",
@@ -557,28 +639,6 @@
       "make": "RAM",
       "model": "2500",
       "condition": "used",
-      "price": 41998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 2500 ",
-      "vin": "3C6UR5DJ0MG506864",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/1a26365e073c.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "new",
-      "price": 41998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 2500 ",
-      "vin": "3C6UR5DJ0MG506864",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/732da242c057.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "new",
       "price": 41998.0,
       "price_currency": "CAD"
     },
@@ -594,17 +654,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Chrysler Pacifica ",
-      "vin": "2C4RC3BG5NR222654",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/0b8d8c70de2c.html",
-      "year": 2022,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 32998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Dodge Durango GT, Leather interior, 6 passenger seating, Trailer tow package and Blacktop packagein Cranbrook",
       "vin": "1C4RDJDG4NC196491",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/5a23b9fbbe57.html",
@@ -613,17 +662,6 @@
       "model": "Durango",
       "condition": "used",
       "price": 34211.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Dodge Durango ",
-      "vin": "1C4RDJDG4NC196491",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/b8bed3db73e4.html",
-      "year": 2022,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 35498.0,
       "price_currency": "CAD"
     },
     {
@@ -646,17 +684,6 @@
       "model": "1500",
       "condition": "used",
       "price": 37551.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 RAM 1500 ",
-      "vin": "1C6SRFVT1NN437771",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/76ca3739d00c.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 44998.0,
       "price_currency": "CAD"
     },
     {
@@ -726,17 +753,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Nissan Armada ",
-      "vin": "JN8AY2DB6P9837446",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/43ea869f74da.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Armada",
-      "condition": "new",
-      "price": 37599.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 RAM 3500 Tradesman, legendary Cummins diesel engine, 400w inverter, room for 6 peoplein Cranbrook",
       "vin": "3C63R3GLXPG652864",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/963663cb4346.html",
@@ -748,17 +764,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 RAM 3500 ",
-      "vin": "3C63R3GLXPG652864",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/ef17f0d1a6d0.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 55998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Jeep Wagoneer Series Ii Carbide 3.0 hurricane twin turbo, 8 spd auto,leather heated/cooled front seats loadedin Cranbrook",
       "vin": "1C4SJVBP0RS113056",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/af8d70c46790.html",
@@ -767,17 +772,6 @@
       "model": "Wagoneer Series Ii Carbide 3.0 hurricane twin turbo, 8 spd auto,leather heated/cooled front seats loadedin Cranbrook",
       "condition": "used",
       "price": 48998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Wagoneer ",
-      "vin": "1C4SJVBP0RS113056",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/3bfdf1ac816c.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Wagoneer",
-      "condition": "new",
-      "price": 49998.0,
       "price_currency": "CAD"
     },
     {
@@ -847,17 +841,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Dodge Durango ",
-      "vin": "1C4SDJCTXSC513041",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/41e38fbcf490.html",
-      "year": 2025,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 44998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Mazda CX-5 ",
       "vin": "JM3KFBCL3S0607772",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/014313457a44.html",
@@ -865,17 +848,6 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 30998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-5 ",
-      "vin": "JM3KFBCL3S0607772",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/014313457a44.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
       "price": 30998.0,
       "price_currency": "CAD"
     },
@@ -1513,6 +1485,28 @@
     },
     {
       "name": "New 2026 RAM 1500 Expressin Cranbrook",
+      "vin": "3C6SRFGP1T4176343",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/c9e43f93cb8a.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 59998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Expressin Cranbrook",
+      "vin": "3C6SRFGP5T4169038",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/104703f7367d.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 67180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 1500 Expressin Cranbrook",
       "vin": "1C6SRFGT1TN421337",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/4323e69c4619.html",
       "year": 2026,
@@ -1542,6 +1536,17 @@
       "model": "1500",
       "condition": "new",
       "price": 86255.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 3500 Limited Longhornin Cranbrook",
+      "vin": "3C63R3SL2TG203023",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/1f08b6c090b6.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "new",
+      "price": 116260.0,
       "price_currency": "CAD"
     },
     {
@@ -1818,6 +1823,17 @@
       "model": "1500",
       "condition": "new",
       "price": 83085.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 RAM 2500 Rebelin Cranbrook",
+      "vin": "3C6UR5EJ0VG362779",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/451efc0f82e4.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "2500",
+      "condition": "new",
+      "price": 95980.0,
       "price_currency": "CAD"
     },
     {

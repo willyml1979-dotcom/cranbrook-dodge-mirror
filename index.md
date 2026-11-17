@@ -1,6 +1,6 @@
 # Cranbrook Dodge
 
- dealership in Cranbrook. AI-readable inventory mirror, about 173 vehicles.
+ dealership in Cranbrook. AI-readable inventory mirror, about 178 vehicles.
 
 - Official website: https://www.cranbrookdodge.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/
