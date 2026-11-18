@@ -1,10 +1,26 @@
 {
   "dealership": "Cranbrook Dodge",
-  "generated_at": "2026-11-17T23:51:39",
+  "generated_at": "2026-11-18T09:00:37",
   "vehicle_count": 176,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Porsche Cayenne 2004 for salein Cranbrook",
+      "vin": "WP1AC29P84LA93926",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/5805c4a5ab57.html",
+      "condition": "used",
+      "price": 10998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge RAM 2500 2008 for salein Cranbrook",
+      "vin": "3D7KS29A58G203778",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/ac4e0d5333b5.html",
+      "condition": "used",
+      "price": 22998.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Dodge RAM 1500 2010 for salein Cranbrook",
       "vin": "1D7RV1GT4AS135802",
@@ -43,6 +59,30 @@
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/c6be4651bf99.html",
       "condition": "used",
       "price": 11701.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2017 for salein Cranbrook",
+      "vin": "3C63R3FL7HG603628",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/8910deb789ec.html",
+      "condition": "used",
+      "price": 60878.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2017 for salein Cranbrook",
+      "vin": "WVGMV7AXXHK001756",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/7282ba032fae.html",
+      "condition": "used",
+      "price": 13397.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2018 for salein Cranbrook",
+      "vin": "1C6RR7GT6JS104611",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/36e5100a9285.html",
+      "condition": "used",
+      "price": 13849.0,
       "price_currency": "CAD"
     },
     {
@@ -99,6 +139,22 @@
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/76ca3739d00c.html",
       "condition": "used",
       "price": 37551.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2023 for salein Cranbrook",
+      "vin": "1C4RJHDT2P8713209",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/c15e56af0e8f.html",
+      "condition": "used",
+      "price": 43998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2023 for salein Cranbrook",
+      "vin": "1C4HJXDN4PW670009",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/d6de09553ec0.html",
+      "condition": "used",
+      "price": 27143.0,
       "price_currency": "CAD"
     },
     {
@@ -297,34 +353,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2004 Porsche Cayenne ",
-      "vin": "WP1AC29P84LA93926",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/5805c4a5ab57.html",
-      "year": 2004,
-      "make": "Porsche",
-      "model": "Cayenne",
-      "condition": "used",
-      "price": 10998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2008 Dodge RAM 2500 Laramiein Cranbrook",
+      "name": "2008 Dodge RAM 2500 Laramie, Leather interior, Legendary Cummins Diesel, Sunroof, the ultimate work horse!!in Cranbrook",
       "vin": "3D7KS29A58G203778",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/83fc5b12adc3.html",
       "year": 2008,
       "make": "Dodge",
-      "model": "RAM 2500 Laramiein Cranbrook",
-      "condition": "used",
-      "price": 22998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2008 Dodge RAM 2500 ",
-      "vin": "3D7KS29A58G203778",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/ac4e0d5333b5.html",
-      "year": 2008,
-      "make": "Dodge",
-      "model": "RAM 2500",
+      "model": "RAM 2500 Laramie, Leather interior, Legendary Cummins Diesel, Sunroof, the ultimate work horse!!in Cranbrook",
       "condition": "used",
       "price": 22998.0,
       "price_currency": "CAD"
@@ -407,25 +441,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 RAM 3500 C/c Laramie Longhornin Cranbrook",
+      "name": "2017 RAM 3500 Limited Edition, Legendary Cummins diesel, luxury leather interior, local tradein Cranbrook",
       "vin": "3C63R3FL7HG603628",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/265b1b7415a9.html",
       "year": 2017,
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 62998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 RAM 3500 ",
-      "vin": "3C63R3FL7HG603628",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/8910deb789ec.html",
-      "year": 2017,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 62998.0,
+      "price": 60878.0,
       "price_currency": "CAD"
     },
     {
@@ -453,17 +476,6 @@
     {
       "name": "2017 Volkswagen Tiguan ",
       "vin": "WVGMV7AXXHK001756",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/7282ba032fae.html",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 13397.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Volkswagen Tiguan ",
-      "vin": "WVGMV7AXXHK001756",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/7282ba032fae.html",
       "year": 2017,
       "make": "Volkswagen",
@@ -484,12 +496,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 RAM 1500 Big Horn, Heated seats and Steering wheel, Power sunroof, Trailer tow group, Alpine stereoin Cranbrook",
+      "name": "2018 RAM 1500 This vehicle is classified as \"not suitable for transportation\", a full inspection is availablein Cranbrook",
       "vin": "1C6RR7GT6JS104611",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/e933769ead3b.html",
       "year": 2018,
       "make": "RAM",
-      "model": "1500",
+      "model": "1500 This vehicle is classified as \"not suitable for transportation\", a full inspection is availablein Cranbrook",
       "condition": "used",
       "price": 13849.0,
       "price_currency": "CAD"
@@ -506,18 +518,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 RAM 1500 ",
-      "vin": "1C6RR7GT6JS104611",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/36e5100a9285.html",
-      "year": 2018,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 13849.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 RAM 3500 C/c Laramie Longhornin Cranbrook",
+      "name": "2018 RAM 3500 Longhorn, luxury leather interior, 5th wheel tow pkg, one owner, local tradein Cranbrook",
       "vin": "3C63R3FL7JG134174",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/445a5e0694f0.html",
       "year": 2018,
@@ -616,14 +617,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Jeep Grand Cherokee L Overlandin Cranbrook",
+      "name": "2021 Jeep Grand Cherokee L Overland, 5.7L Hemi. 7 passenger, tow package, massage seats, navigation, heated seatsin Cranbrook",
       "vin": "1C4RJKDT2M8204651",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/c877c4770eaf.html",
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee L",
       "condition": "used",
-      "price": 32998.0,
+      "price": 34500.0,
       "price_currency": "CAD"
     },
     {
@@ -693,7 +694,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Grand Cherokee Overland 4x4in Cranbrook",
+      "name": "2023 Jeep Grand Cherokee Overland 4x4, rare 5.7L Hemi, heated seats and steering wheel, local trade, one ownerin Cranbrook",
       "vin": "1C4RJHDT2P8713209",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/7a05d68958b8.html",
       "year": 2023,
@@ -704,36 +705,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Grand Cherokee ",
-      "vin": "1C4RJHDT2P8713209",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/c15e56af0e8f.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 43998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Wrangler Sportin Cranbrook",
+      "name": "2023 Jeep Wrangler Sport, willy's package, navigation, alpine sound system, remote start, one owner, local tradein Cranbrook",
       "vin": "1C4HJXDN4PW670009",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/7183ebf1993b.html",
       "year": 2023,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 27998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Wrangler ",
-      "vin": "1C4HJXDN4PW670009",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/d6de09553ec0.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 27998.0,
+      "price": 27143.0,
       "price_currency": "CAD"
     },
     {
