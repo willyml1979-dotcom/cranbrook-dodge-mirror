@@ -1,7 +1,7 @@
 {
   "dealership": "Cranbrook Dodge",
-  "generated_at": "2026-11-17T23:46:30",
-  "vehicle_count": 178,
+  "generated_at": "2026-11-17T23:51:39",
+  "vehicle_count": 176,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -858,25 +858,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 RAM 3500 ",
-      "vin": "3C63R3SL0SG516408",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/0ca2178b8744.html",
-      "year": 2025,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 95498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chrysler Grand Caravan ",
+      "name": "2026 Chrysler Grand Caravanin Cranbrook",
       "vin": "2C4RC1ZGXTR240784",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/f895fd9ef710.html",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Grand Caravan",
+      "model": "Grand Caravanin Cranbrook",
       "condition": "new",
-      "price": 48695.0,
+      "price": 48495.0,
       "price_currency": "CAD"
     },
     {
@@ -886,7 +875,7 @@
       "make": "Chrysler",
       "model": "Pacificain Cranbrook",
       "condition": "new",
-      "price": 52195.0,
+      "price": 57195.0,
       "price_currency": "CAD"
     },
     {
@@ -932,23 +921,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Dodge Durango ",
+      "name": "2026 Dodge Durangoin Cranbrook",
       "vin": "1C4RDJDG8TC166262",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/20cb258c8bf8.html",
       "year": 2026,
       "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 66530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango SXTin Cranbrook",
-      "vin": "1C4RDJDG6TC316272",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/0d3b06a5428a.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
+      "model": "Durangoin Cranbrook",
       "condition": "new",
       "price": 54890.0,
       "price_currency": "CAD"
@@ -965,58 +943,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee ",
+      "name": "2026 Jeep Cherokeein Cranbrook",
       "vin": "3C4PJMB20TT228234",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/46846399c6bc.html",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee",
+      "model": "Cherokeein Cranbrook",
       "condition": "new",
-      "price": 47885.0,
+      "price": 42390.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass ",
+      "name": "2026 Jeep Compassin Cranbrook",
       "vin": "3C4NJDAN6TT161335",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/4f402bdd452e.html",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass",
+      "model": "Compassin Cranbrook",
       "condition": "new",
-      "price": 37490.0,
+      "price": 34495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Gladiator ",
+      "name": "2026 Jeep Gladiatorin Cranbrook",
       "vin": "1C6PJTAG9TL184342",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/a11da1c57ad8.html",
       "year": 2026,
       "make": "Jeep",
-      "model": "Gladiator",
+      "model": "Gladiatorin Cranbrook",
       "condition": "new",
-      "price": 59500.0,
+      "price": 52890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Grand Cherokee ",
-      "vin": "1C4RJHAR7TC317213",
+      "name": "2026 Jeep Grand Cherokeein Cranbrook",
+      "vin": "1C4RJHAR9TC317214",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/e1f13957a112.html",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee",
+      "model": "Grand Cherokeein Cranbrook",
       "condition": "new",
-      "price": 66380.0,
+      "price": 58390.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Grand Cherokee L ",
+      "name": "2026 Jeep Grand Cherokee Lin Cranbrook",
       "vin": "1C4RJKAR7T8585789",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/88e8b39596a5.html",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee L",
+      "model": "Grand Cherokee",
       "condition": "new",
-      "price": 71585.0,
+      "price": 60890.0,
       "price_currency": "CAD"
     },
     {
