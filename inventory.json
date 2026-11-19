@@ -1,6 +1,6 @@
 {
   "dealership": "Cranbrook Dodge",
-  "generated_at": "2026-11-18T09:06:12",
+  "generated_at": "2026-11-18T19:18:20",
   "vehicle_count": 177,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -86,6 +86,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 3500 2018 for salein Cranbrook",
+      "vin": "3C63R3FL7JG134174",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/1929394be9d5.html",
+      "condition": "used",
+      "price": 45969.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chrysler Pacifica 2019 for salein Cranbrook",
       "vin": "2C4RC1DG4KR741188",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/46bfae2cd8d8.html",
@@ -99,6 +107,22 @@
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/5fc1c0cd5a5f.html",
       "condition": "used",
       "price": 23898.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Gladiator 2021 for salein Cranbrook",
+      "vin": "1C6HJTFG1ML599699",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/f17a17fb09f6.html",
+      "condition": "used",
+      "price": 37795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee L 2021 for salein Cranbrook",
+      "vin": "1C4RJKBGXM8165734",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/119436da6862.html",
+      "condition": "used",
+      "price": 31399.0,
       "price_currency": "CAD"
     },
     {
@@ -195,6 +219,14 @@
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/1dac48c3f51c.html",
       "condition": "used",
       "price": 44000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2024 for salein Cranbrook",
+      "vin": "3C63R3CLXRG314541",
+      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/79619c86317c.html",
+      "condition": "used",
+      "price": 63998.0,
       "price_currency": "CAD"
     },
     {
@@ -529,17 +561,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 RAM 3500 ",
-      "vin": "3C63R3FL7JG134174",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/1929394be9d5.html",
-      "year": 2018,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 45969.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 RAM 1500 ",
       "vin": "1C6RR7GT6JS104611",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/new/36e5100a9285.html",
@@ -595,17 +616,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Jeep Gladiator ",
-      "vin": "1C6HJTFG1ML599699",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/f17a17fb09f6.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "used",
-      "price": 37795.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Jeep Grand Cherokee L Limited 3.6 V6, 8 spd auto.Full range of driver assist systems,low low Ks and very. Clean, must viewin Cranbrook",
       "vin": "1C4RJKBGXM8165734",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/c537dc1e557e.html",
@@ -625,17 +635,6 @@
       "model": "Grand Cherokee L",
       "condition": "used",
       "price": 34500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee L ",
-      "vin": "1C4RJKBGXM8165734",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/119436da6862.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee L",
-      "condition": "used",
-      "price": 31399.0,
       "price_currency": "CAD"
     },
     {
@@ -771,20 +770,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 3500 Tradesmanin Cranbrook",
+      "name": "2024 RAM 3500 Tradesman, Legendary Cummins diesel, 5th wheel tow pkg, 6 passenger, local tradein Cranbrook",
       "vin": "3C63R3CLXRG314541",
       "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/cc302fc96880.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 63998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 3500 ",
-      "vin": "3C63R3CLXRG314541",
-      "url": "https://willyml1979-dotcom.github.io/cranbrook-dodge-mirror/used/79619c86317c.html",
       "year": 2024,
       "make": "RAM",
       "model": "3500",
